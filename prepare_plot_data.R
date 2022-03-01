@@ -13,7 +13,7 @@ library(ggplot2)
 
 # Google API
 
-api_key <- "AIzaSyC4aUz9VbYr3NoiMfIka_UAEpp4Y8rJW9w"
+api_key <- "your key"
 set.api.key(api_key)
 register_google(api_key)
 
